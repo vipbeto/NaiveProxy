@@ -14,9 +14,9 @@ Download Sagernet
 
 برای همراه اول میتوانید از NekoBox بدون تغییر تنظیمات استفاده کنید.
 
-برای ایرانسل از نرم افزار Sagarnet استفاده کنید.
+برای ایرانسل از نرم افزار sagernet استفاده کنید.
 
-تنظیمات برنامه ی Sagarnet برای ایرانسل:
+تنظیمات برنامه ی sagernet برای ایرانسل:
 
 .
 ![1](https://raw.githubusercontent.com/Ptechgithub/NaiveProxy/main/1.jpg)
