@@ -14,4 +14,4 @@ Download Plugin:
 تنظیمات برنامه ی Sagarnet برای ایرانسل:
 
 .
-![1](https://raw.githubusercontent.com/Ptechgithub/NaiveProxy/main/2.jpg)
+![1](https://raw.githubusercontent.com/Ptechgithub/NaiveProxy/main/1.jpg)
