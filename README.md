@@ -12,11 +12,13 @@ Download Plugin:
 Download Sagernet
 [Download Sagernet](https://github.com/SagerNet/SagerNet/releases/tag/0.8.1-rc03)
 
-برای همراه اول میتوانید از NekoBox بدون تغییر تنظیمات استفاده کنید.
+- نیاز به دامین دارید.
 
-برای ایرانسل از نرم افزار sagernet استفاده کنید.
+- برای همراه اول میتوانید از NekoBox بدون تغییر تنظیمات استفاده کنید.
 
-تنظیمات برنامه ی sagernet برای ایرانسل:
+- برای ایرانسل از نرم افزار sagernet استفاده کنید.
+
+- تنظیمات برنامه ی sagernet برای ایرانسل:
 
 .
 ![1](https://raw.githubusercontent.com/Ptechgithub/NaiveProxy/main/1.jpg)
