@@ -9,7 +9,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Ptechgithub/Nai
 Download Plugin:
 [Android Plugin](https://github.com/SagerNet/SagerNet/releases)
 
-برای همراه اول پیتوانید از NekoBox بدون تغییر تنظیمات استفاده کنید.
+برای همراه اول میتوانید از NekoBox بدون تغییر تنظیمات استفاده کنید.
 
 برای ایرانسل از نرم افزار Sagarnet استفاده کنید.
 تنظیمات برنامه ی Sagarnet برای ایرانسل:
