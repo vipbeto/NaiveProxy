@@ -11,7 +11,7 @@ Download Plugin:
 
 
 
-تنظیمات برنامه ی NekoBox مخصوصا برای ایرانسل:
+تنظیمات برنامه ی Sagarnet برای ایرانسل:
 
 .
 ![1](https://raw.githubusercontent.com/Ptechgithub/NaiveProxy/main/1.jpg)
