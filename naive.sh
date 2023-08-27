@@ -304,12 +304,12 @@ showconf(){
 
 menu(){
     clear
-    echo "#############################################################"
-    echo -e "#       ${RED}NaiveProxy 一one-click installation script${PLAIN}     #"
-    echo -e "# ${GREEN}Gihub ${PLAIN}: https://gitlab.com/Ptechgithub                #"
-    echo -e "# ${GREEN}Telegram ${PLAIN}: https://t.me/P_tech2024                     #"
-    echo -e "# ${GREEN}YouTube ${PLAIN}: https://www.youtube.com/@IR_TECH             #"
-    echo "#############################################################"
+    echo "###########################################################"
+    echo -e "#       ${RED}NaiveProxy 一one-click installation script${PLAIN}      #"
+    echo -e "# ${GREEN}Gihub ${PLAIN}: https://gitlab.com/Ptechgithub               #"
+    echo -e "# ${GREEN}Telegram ${PLAIN}: https://t.me/P_tech2024                       #"
+    echo -e "# ${GREEN}YouTube ${PLAIN}: https://www.youtube.com/@IR_TECH              #"
+    echo "###########################################################"
     echo ""
     echo -e  " ${GREEN}1.${PLAIN} Install NaiveProxy"
     echo -e " ${GREEN}2.${PLAIN} ${RED}Uninstall NaiveProxy${PLAIN}"
