@@ -5,7 +5,7 @@ Install naiveproxy
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/Ptechgithub/NaiveProxy/main/naive.sh && bash naive.sh
 ```
-
+![2](https://raw.githubusercontent.com/Ptechgithub/NaiveProxy/main/2.jpg)
 Download Plugin:
 [Android Plugin](https://github.com/SagerNet/SagerNet/releases)
 
