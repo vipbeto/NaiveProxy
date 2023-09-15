@@ -22,3 +22,5 @@ Download Sagernet
 
 .
 ![1](https://raw.githubusercontent.com/Ptechgithub/NaiveProxy/main/1.jpg)
+
+forked [Misaka-blog](https://github.com/Misaka-blo)
